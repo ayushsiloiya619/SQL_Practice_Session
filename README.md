@@ -1,2 +1,3 @@
 # SQL_Practice_Session
-Hands On Practice
+<br>
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg" class="img-fluid" alt="Responsive image">
